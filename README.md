@@ -39,106 +39,14 @@ Most of these reports are based on the US but mostly it is true for the rest of 
 
 <img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss2.png?raw=true">
 
-### Dataset Preparation
+### Scatterplot
 
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss3.png?raw=true">
 
-### Dataset Preparation
+### Case Density
 
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss4.png?raw=true">
 
-### Dataset Preparation
+### Case over a period of Time 
 
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
-
-### Dataset Preparation
-
-<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true" height="400">
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss5.png?raw=true">
