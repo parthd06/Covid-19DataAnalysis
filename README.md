@@ -70,3 +70,27 @@ Most of these reports are based on the US but mostly it is true for the rest of 
 ### Death & Recoveries per 100 Cases
 
 <img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss10.png?raw=true">
+
+### No. of new cases per Day & Countries
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss11.png?raw=true">
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss12.png?raw=true">
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss13.png?raw=true">
+
+### Scatterplot for Deaths Vs Confirmed Cases
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss14.png?raw=true">
+
+### Bar plot
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss15.png?raw=true">
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss16.png?raw=true">
+
+### Line plot
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss17.png?raw=true">
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss18.png?raw=true">
