@@ -28,3 +28,5 @@ Therefore the following two scenarios should also be kept in mind:
 - https://abc11.com/nc-coronavirus-recovery-cases-update/6127051/
 
 Most of these reports are based on the US but mostly it is true for the rest of the world.
+
+
