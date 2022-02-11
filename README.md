@@ -50,3 +50,23 @@ Most of these reports are based on the US but mostly it is true for the rest of 
 ### Case over a period of Time 
 
 <img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss5.png?raw=true">
+
+### Case Visualization using Folium Maps
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss6.png?raw=true">
+
+### Choropleth Maps
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss7.png?raw=true">
+
+### Confirmed & Death Cases using Bar plot
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss8.png?raw=true">
+
+### Static Color Maps
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss9.png?raw=true">
+
+### Death & Recoveries per 100 Cases
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss10.png?raw=true">
