@@ -13,6 +13,10 @@ This dataset includes time-series data tracking the number of people affected by
 - number of people who have reportedly died due to Coronavirus
 - number of people who have reportedly recovered from it
 
+## Notebook Demo
+
+![]()
+
 **Note:** The Data collection for **Recovered cases** isn't quite accurate and has been stopped by a lot of countries and it is also found discrepancies in data if taken from multiple sources. Also a lot of recovery cases aren't reported and it is not possible to analyze them accurately. Yet the data reported till July 2020, is quite accurate to understand. You can select from Jan2020 to Jan 2021 to clearly see the transition in all the graphs.  
 
 Therefore the following two scenarios should also be kept in mind:
