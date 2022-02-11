@@ -31,5 +31,5 @@ Most of these reports are based on the US but mostly it is true for the rest of 
 
 ## Screenshots
 
-![Dataset Preparation]()
+![Dataset Preparation](https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss1.png?raw=true)
 
