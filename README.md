@@ -89,8 +89,56 @@ Most of these reports are based on the US but mostly it is true for the rest of 
 
 <img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss16.png?raw=true">
 
-### Line plot
-
 <img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss17.png?raw=true">
 
+### Line plot
+
 <img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss18.png?raw=true">
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss19.png?raw=true">
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss20.png?raw=true">
+
+### Growth rate after 100 cases
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss21.png?raw=true">
+
+#### Growth rate after 1000 cases
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss22.png?raw=true">
+
+#### Growth rate after 100K cases
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss23.png?raw=true">
+
+#### Growth rate after 1 Million cases
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss24.png?raw=true">
+
+#### Growth rate after 10 Million cases
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss25.png?raw=true">
+
+### Tree Map Analysis
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss26.png?raw=true">
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss27.png?raw=true">
+
+### First & Last case report time
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss28.png?raw=true">
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss29.png?raw=true">
+
+### Confirmed cases Country & Day wise
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss30.png?raw=true">
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss31.png?raw=true">
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss32.png?raw=true">
+
+### Covid-19 Vs other Epidemics
+
+<img src="https://github.com/parthd06/Covid-19Analysis/blob/main/Screenshots/ss33.png?raw=true">
