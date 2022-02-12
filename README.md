@@ -17,7 +17,13 @@ This dataset includes time-series data tracking the number of people affected by
 
 [](https://user-images.githubusercontent.com/56031116/153548747-e7461c4c-a8c6-428b-ac5f-b181856e4174.mp4)
 
-**Note:** The Data collection for **Recovered cases** isn't quite accurate and has been stopped by a lot of countries and it is also found discrepancies in data if taken from multiple sources. Also a lot of recovery cases aren't reported and it is not possible to analyze them accurately. Yet the data reported till July 2020, is quite accurate to understand. You can select from Jan2020 to Jan 2021 to clearly see the transition in all the graphs.  
+### Executed Cells from the Notebook
+Checkout the Notebook with all the executed cells to see the results for each plots in this Html version of the notebook @[Notebook](https://parthd06.github.io/Covid-19Analysis/). 
+
+**Please note this file takes a lot of time to load & view, hence it is preferred that you watch the above video or execute the Notebook on your local Machine.**
+
+#### **Note**:
+The Data collection for **Recovered cases** isn't quite accurate and has been stopped by a lot of countries and it is also found discrepancies in data if taken from multiple sources. Also a lot of recovery cases aren't reported and it is not possible to analyze them accurately. Yet the data reported till July 2020, is quite accurate to understand. You can select from Jan2020 to Jan 2021 to clearly see the transition in all the graphs.  
 
 Therefore the following two scenarios should also be kept in mind:
 - Active Cases are calculated based on recoveries so this will not be also correct
