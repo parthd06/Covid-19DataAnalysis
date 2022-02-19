@@ -17,12 +17,12 @@ This dataset includes time-series data tracking the number of people affected by
 
 [](https://user-images.githubusercontent.com/56031116/153548747-e7461c4c-a8c6-428b-ac5f-b181856e4174.mp4)
 
-### Executed Cells from the Notebook
+## Executed Cells from the Notebook
 Checkout the Notebook with all the executed cells to see the results for each plots in this Html version of the notebook @[Notebook](https://parthd06.github.io/Covid-19Analysis/). 
 
 **Please note this file takes a lot of time to load & view, hence it is preferred that you watch the above video or execute the Notebook on your local Machine.**
 
-#### **Note**:
+### **Note**:
 The Data collection for **Recovered cases** isn't quite accurate and has been stopped by a lot of countries and it is also found discrepancies in data if taken from multiple sources. Also a lot of recovery cases aren't reported and it is not possible to analyze them accurately. Yet the data reported till July 2020, is quite accurate to understand. You can select from Jan2020 to Jan 2021 to clearly see the transition in all the graphs.  
 
 Therefore the following two scenarios should also be kept in mind:
@@ -34,6 +34,25 @@ Therefore the following two scenarios should also be kept in mind:
 - https://abc11.com/nc-coronavirus-recovery-cases-update/6127051/
 
 Most of these reports are based on the US but mostly it is true for the rest of the world.
+
+## Sources for DataSet
+
+The following datasources are used:
+
+- World Health Organization (WHO): https://www.who.int/
+- DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia
+- BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
+- National Health Commission of the People’s Republic of China (NHC): http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
+- China CDC (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm
+- Hong Kong Department of Health: https://www.chp.gov.hk/en/features/102465.html
+- Macau Government: https://www.ssm.gov.mo/portal/
+- Taiwan CDC: https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=0
+- US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html
+- Government of Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html
+- Australia Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance
+- European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
+- Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
+- Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
 
 ## Screenshots
 
