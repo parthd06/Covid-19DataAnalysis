@@ -17,6 +17,11 @@ This dataset includes time-series data tracking the number of people affected by
 
 [](https://user-images.githubusercontent.com/56031116/153548747-e7461c4c-a8c6-428b-ac5f-b181856e4174.mp4)
 
+## Inspiration
+
+- To test the understanding & apply the concepts learned from an IBM Data Science Specialization course.
+- To learn more about visualization techniques & tryout different plotting techniques.
+
 ## Executed Cells from the Notebook
 Checkout the Notebook with all the executed cells to see the results for each plots in this Html version of the notebook @[Notebook](https://parthd06.github.io/Covid-19Analysis/). 
 
