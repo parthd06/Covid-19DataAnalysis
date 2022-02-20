@@ -19,7 +19,7 @@ This dataset includes time-series data tracking the number of people affected by
 
 ## Inspiration
 
-- To test the understanding & apply the concepts learned from an IBM Data Science Specialization course.
+- To test the understanding & apply the concepts learned from an **IBM Data Science Specialization** on Coursera.
 - To learn more about visualization techniques & tryout different plotting techniques.
 
 ## Executed Cells from the Notebook
